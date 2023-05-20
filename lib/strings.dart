@@ -1,0 +1,4 @@
+class Constants{
+  static const String url = "https://api.shutterstock.com/v2/images/search";
+  static const String token = "Bearer v2/TzlweFJEUnRXRTBxdlpuTkpSMWFXQmtXWVZHZnFjSk0vMzc2ODA1ODcxL2N1c3RvbWVyLzQvQTI3Wng1RE4wZGs1U3NLRnV1Z1hvdklLeENpQ3RacXBWcmhtcWxKd0ZXbnNRZ1FnMVM4SmpDamM0Wl9rZWJhUFBFZzJza0JweHdxZHlGazdxVWNRUnhqVnI3RHdxREY3eXljeEZtb3dhZnVvMWJWdEt3ajFUSkZfdmZlZmEwc3lsb3VLYnRwNnRVakhtQkpCcjA0VlNYeDFFV3gwTm54SWhmMkdaSzNwTmlmX25laWp6SHNUWXE5anJiRWtCeFhwdm5RNzhUS2dnSmFSaFdEV1FCbUZTUS9iOEtBNi01UExNY2tzYnBUanNLNUJn";
+}
