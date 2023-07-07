@@ -432,6 +432,7 @@ class MyConnectivity {
       final result = await InternetAddress.lookup('google.com');
       isOnline = result.isNotEmpty && result[0].rawAddress.isNotEmpty;
       print('commit 1');
+      print('commit 2');
     } on SocketException catch (_) {
       isOnline = false;
     }
