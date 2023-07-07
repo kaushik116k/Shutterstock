@@ -435,6 +435,7 @@ class MyConnectivity {
       print('commit 2');
       print('commit 3');
       print('Feature 1 1 1');
+      print('Feature 2 2 2');
     } on SocketException catch (_) {
       isOnline = false;
     }
